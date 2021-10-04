@@ -120,7 +120,7 @@
         } */
 
         .navbar {
-            position: fixed;
+            position: fixed !important;
             top: 0;
             left: 0;
             right: 0;
@@ -247,7 +247,7 @@
             background-size: cover;
             position: absolute;
             bottom: 0;
-            top: 60px;
+            top: 73.5px;
             right: 0;
             /* border-radius: 50%; */
             width: 340px;
